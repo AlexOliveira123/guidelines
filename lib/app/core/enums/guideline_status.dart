@@ -1,0 +1,4 @@
+enum GuidelineStatus {
+  Open,
+  Finished,
+}
